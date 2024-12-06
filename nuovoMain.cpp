@@ -1,6 +1,6 @@
 #include <iostream>
 #include <string>
-#include "Dizionarioesteso.cpp"
+#include "DizionarioEsteso.cpp"
 using namespace std;
 
 int main() {
